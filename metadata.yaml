@@ -1,0 +1,27 @@
+_repo: The-Elements-of-Blowpipe-Analysis_32974
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Getman, Frederick Hutton
+    birthdate: 1877
+    deathdate: 1941
+    gutenberg_agent_id: '36138'
+    url: http://www.gutenberg.org/2009/agents/36138
+description: ''
+gutenberg_bookshelf: Chemistry
+gutenberg_issued: '2010-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QD'
+- !lcsh 'Blowpipe'
+title: The Elements of Blowpipe Analysis
+url: http://www.gutenberg.org/ebooks/32974
