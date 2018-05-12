@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36138'
     url: http://www.gutenberg.org/2009/agents/36138
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32974#The-Elements-of-Blowpipe-Analysis
 gutenberg_bookshelf: Chemistry
 gutenberg_issued: '2010-06-25'
 gutenberg_type: Text
